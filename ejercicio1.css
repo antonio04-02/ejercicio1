@@ -1,0 +1,97 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    background: white;
+}
+body{
+    height: 900px;
+    width: 900px;
+    margin: auto;
+}
+header{
+    height: 50px;
+    width: 900px;
+}
+#der{
+    height: 50px;
+    width: 600px;
+    background: orange;
+    float:right;
+}
+#izq{
+    height: 50px;
+    width: 200px;
+    background: orange;
+    float: left;
+}
+#separacion{
+    height: 50px;
+    width: 100px;
+    background: rgba(255, 166, 0, 0.308);
+    float: left;
+}
+   
+main{
+    height: 850px;
+    width: 900px;
+}
+#izquierda{
+    height: 850px;
+    width: 200px;
+    float: left;
+}
+#separacion1{
+    height: 50px;
+    width: 200px;
+    background: white;
+    float: left;
+    float: above;
+}
+#arriba_izq{
+    height: 400px;
+    width: 200px;
+    background: rgba(255, 0, 0, 0.347);
+    float: left;
+    float: above;
+}
+#abajo_izq{
+    height: 400px;
+    width: 200px;
+    background: rgba(255, 0, 0, 0.347);
+    float: left;
+    float: below arriba_izq;
+}
+#derecha{
+    height: 850px;
+    width: 700px;
+    float: right;
+}
+#separacion2{
+    height: 50px;
+    width: 700px;
+    background: white;
+}
+#separacion3{
+    height: 900px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+#arriba_der{
+    height: 650px;
+    width: 600px;
+    background: greenyellow;
+    float: right;
+}
+#separacion4{
+    height: 700px;
+    width: 700px;
+    background: white;
+}
+#pie_de_pagina{
+    height: 100px;
+    width: 700px;
+    background: blue;
+}
